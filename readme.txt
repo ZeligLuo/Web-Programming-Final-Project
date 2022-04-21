@@ -1,4 +1,5 @@
 - This is the group project for final Web Programming class.
+- This project is made by group of 4 people.
 - The project purpose is built a maze game on website with HTML/CSS and JavaScript.
 - The idea to build the maze is creating plenty of divs to populate the map.
 
